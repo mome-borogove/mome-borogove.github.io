@@ -35,7 +35,7 @@ The second plot shows how much a single additional point of critical strength is
 
 Note: As of v2.3.0, the critical damage per point of critical strength plot is a bit wonky. This isn't a bug, it's a result of inconsistently-sized intervals in the critical strength table. The good news is that you can basically ignore the hiccup in the middle: there's essentially no scenario in which it makes sense to change your gear for that little window.
 
-![Critical damage per strength point](/assets/40K/2020-07-07/Critical_damage_per_strength.png){:max-height="400px"}
+![Critical damage per strength point](/assets/40K/2020-07-07/Critical_damage_per_strength.png){:style="max-height: 400px;"}
 
 ## Parting note
 
