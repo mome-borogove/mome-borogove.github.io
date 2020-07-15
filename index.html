@@ -36,15 +36,20 @@ title: Mome Borogove
     <div class="container-xl" id="body">
       <div class="row">
         <div class="col">
+          <h1>Resources</h1>
           <div class="category"
-                style="background-image: url(assets/categories/40K.jpg)">
+               style="background-image: url(assets/categories/40K.jpg)"
+               onclick="$('#40K').collapse('toggle')"
+            >
             <div class="category-name">Warhammer 40K: Inquisitor</div>
           </div>
-          <ul>
+          <div class="collapse show" id="40K">
+            <ul>
             {% for post in site.categories.40K %}
-              <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+              <li><a class="post" href="{{ post.url }}">{{ post.title }}</a></li>
             {% endfor %}
-          </ul>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
