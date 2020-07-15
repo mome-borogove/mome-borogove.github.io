@@ -1,6 +1,6 @@
 ---
-title: Criticals in 40K: Inquisitor
-layout: default
+title: "Criticals in 40K: Inquisitor"
+layout: 40K
 category: 40K
 ---
 # Criticals in 40K: Inquisitor
