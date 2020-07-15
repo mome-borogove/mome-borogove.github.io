@@ -1,6 +1,7 @@
 ---
-tdarkitle: Criticals in 40K: Inquisitor
+title: Criticals in 40K: Inquisitor
 layout: default
+category: 40K
 ---
 # Criticals in 40K: Inquisitor
 
