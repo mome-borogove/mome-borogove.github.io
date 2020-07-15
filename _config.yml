@@ -1,4 +1,4 @@
-permalink: /:categories/:year:month:day/:title:output_ext
+#permalink: /:categories/:year:month:day/:title:output_ext
 
 sass:
   sass_dir: _sass
