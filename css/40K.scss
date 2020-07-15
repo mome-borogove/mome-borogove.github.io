@@ -54,6 +54,9 @@ img {
 }
 
 blockquote {
+  border-left: .25em solid $teal_dark;
+  border-right: .25em solid $teal_dark;
   color: $teal_dark;
   background-color: $whiteish;
+  padding: 1em;
 }
