@@ -29,14 +29,13 @@ To reiterate, though, it is always good to get both critical strength and critic
 
 The first plot shows the average equivalent critical damage you can expect with a given amount of critical strength on your gear.
 
-<img src="/assets/40K/2020-07-07/Equivalent_crit_damage.png" height="400px">
-![Equivalent critical damage](/assets/40K/2020-07-07/Equivalent_crit_damage.png){:height="400px"}
+![Equivalent critical damage](/assets/40K/2020-07-07/Equivalent_crit_damage.png){:style="max-height: 400px;"}
 
 The second plot shows how much a single additional point of critical strength is assuming you already have a given amount.
 
 Note: As of v2.3.0, the critical damage per point of critical strength plot is a bit wonky. This isn't a bug, it's a result of inconsistently-sized intervals in the critical strength table. The good news is that you can basically ignore the hiccup in the middle: there's essentially no scenario in which it makes sense to change your gear for that little window.
 
-![Critical damage per strength point](/assets/40K/2020-07-07/Critical_damage_per_strength.png)
+![Critical damage per strength point](/assets/40K/2020-07-07/Critical_damage_per_strength.png){:max-height="400px"}
 
 ## Parting note
 
