@@ -11,7 +11,7 @@ While this has advantages (crits have a much wider range which can "feel" more e
 
 Let's start with making sure we're all on the same page. Here's how criticals work in 40K: Inquisitor:
 
-![How Crits Work](/assets/40K/2020-07-07/how-crits-work.jpg)
+![How Crits Work](/assets/40K/2020-07-07/how-crits-work.jpg | height=400px)
 
 When an attack crits, the game internally rolls a random value from 1 to 100, adds your **critical strength** score, then looks up the value in a table.
 It takes the result as your initial critical multiplier, then adds any **critical damage** from your gear and skills, and uses that as the final multiplier for your normal attack damage.
@@ -29,13 +29,13 @@ To reiterate, though, it is always good to get both critical strength and critic
 
 The first plot shows the average equivalent critical damage you can expect with a given amount of critical strength on your gear.
 
-![Equivalent critical damage](/assets/40K/2020-07-07/Equivalent_crit_damage.png)
+![Equivalent critical damage](/assets/40K/2020-07-07/Equivalent_crit_damage.png | height=400px)
 
 The second plot shows how much a single additional point of critical strength is assuming you already have a given amount.
 
 Note: As of v2.3.0, the critical damage per point of critical strength plot is a bit wonky. This isn't a bug, it's a result of inconsistently-sized intervals in the critical strength table. The good news is that you can basically ignore the hiccup in the middle: there's essentially no scenario in which it makes sense to change your gear for that little window.
 
-![Critical damage per strength point](/assets/40K/2020-07-07/Critical_damage_per_strength.png)
+![Critical damage per strength point](/assets/40K/2020-07-07/Critical_damage_per_strength.png | height=400px)
 
 ## Parting note
 

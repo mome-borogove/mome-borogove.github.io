@@ -1,4 +1,5 @@
 permalink: /:categories/:year:month:day/:title:output_ext
+markdown: GFM
 
 sass:
   sass_dir: _sass
