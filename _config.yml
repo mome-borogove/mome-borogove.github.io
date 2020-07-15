@@ -1,5 +1,6 @@
 permalink: /:categories/:year:month:day/:title:output_ext
 markdown: kramdown
+excerpt_separator: <!--more-->
 
 sass:
   sass_dir: _sass
