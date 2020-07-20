@@ -21,7 +21,7 @@ Berserk is a *token-based battle state*, which means that the player gains certa
 The benefit of being in the berserk state is a 10% bonus to movement speed (soft-capped), and each additional token gives 1% damage and 1% damage reduction (soft-capped).
 A player can have a maximum of 150 berserk tokens, and they will slowly lose 1 berserk token every second.
 
-![Berserk token icon](/assets/40K/berserk.png)
+![Berserk token icon](/assets/40K/2020-07-20/berserk.png)
 
 Berserk tokens are not something you come across naturally.
 They are only granted from specific enchants which appear only on relic, archeotech, and ancient items.
@@ -44,7 +44,7 @@ This choice unlocks the Radical perk, which is decent for berserk builds.
 It also has the benefit of increasing resource regeneration, which is useful for a number of builds.
 Most of your tokens, however are going to come via item enchants, so we'll focus there.
 
-![Radical Perk](/assets/40K/radical.jpg)
+![Radical Perk](/assets/40K/2020-07-20/radical.jpg)
 
 There are only four enchants which give berserk tokens:
 
@@ -119,7 +119,7 @@ Unfortunately, because of their limited availability, this means they compete wi
 I've laid out a plan below for what I consider an "optimal" allocation for slots.
 This allocation attempts to put item enchants where they are not competing with anything else first (crit on main implant or regen on purity seal), then filling the rest of the more crowded slots with enchants that cannot be put elsewhere.
 
-![Berserk item layout](/assets/40K/berserk-gear.jpg)
+![Berserk item layout](/assets/40K/2020-07-20/berserk-gear.jpg)
 
 I do want to emphasize that there are many ways to plan a berserk build.
 You don't need all of these enchants, you don't need them in the same spots, and you definitely shouldn't treat this layout as the One True Way to leverage berserk tokens.
